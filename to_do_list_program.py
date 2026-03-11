@@ -8,4 +8,5 @@ tasks.append(task2)
 
 print("Your tasks are:")
 for task in tasks:
+
     print("-", task)
